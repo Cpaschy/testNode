@@ -1,0 +1,28 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cpaschy/testNode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cpaschy/testNode/issues"
+  },
+  "homepage": "https://github.com/Cpaschy/testNode#readme",
+  "description": "",
+  "scripts": {
+    "test": "...",
+    "build": "webpack"
+  }
+}
